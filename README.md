@@ -1,3 +1,13 @@
+I will rewrite README in future.. but for now some Main hints
+
+1) Get API key on [Open Weather Map](https://openweathermap.org/api).
+  .. I have developed it on free version API
+
+2) In folder with project create .env file
+  ```
+  REACT_APP_API_KEY=YourKey
+  ```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
